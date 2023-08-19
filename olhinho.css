@@ -13,6 +13,8 @@
     flex: 1;
     font-size: 14px;
     width: 100%; /* Ocupa o espaço disponível */
+    overflow: hidden;
+    padding-right: 40px;
   }
   
   .toggle-eye {
