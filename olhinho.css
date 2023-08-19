@@ -1,0 +1,22 @@
+.password-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    max-width: 200px; /* Defina a largura máxima desejada */
+    margin: 0 auto;  /* Centraliza horizontalmente */
+    margin-top: 50%;
+    
+  }
+  
+  .password-input {
+    padding: 6px;
+    flex: 1;
+    font-size: 14px;
+    width: 100%; /* Ocupa o espaço disponível */
+  }
+  
+  .toggle-eye {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+  }
